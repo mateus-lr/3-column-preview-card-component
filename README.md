@@ -28,7 +28,7 @@ Improvement suggestion are welcomed!
 
 ### Links 
 
-[Live Site](##)
+[Live Site](https://mateus-lr.github.io/3-column-preview-card-component/)
 
 ### Built with
 
